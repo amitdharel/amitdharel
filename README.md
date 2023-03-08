@@ -1,4 +1,4 @@
-![Header Image](https://github.com/amitdharel/amitdharel/github_photo.JPG)
+![Header Image](https://github.com/amitdharel/amitdharel/blob/main/github_photo.JPG)
 
 Hi there! My name is Amit Harel, and I'm a mechanical engineer with a passion for developing innovative solutions to complex problems.
 
@@ -12,8 +12,7 @@ I am a dedicated and motivated engineer with a proven track record of success in
 
 * CAD (Pro E Creo, Solidworks, ANSYS)
 * Programming Languages (MATLAB, Python, C)
-* Big Data Algorithms (Python, Numpy)
-* Neural Networks (PyTorch)
+* Space Claim Analysis
 * 
 
 # I Love
