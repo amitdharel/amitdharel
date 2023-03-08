@@ -11,9 +11,12 @@ I am a dedicated and motivated engineer with a proven track record of success in
 # Skills
 
 * CAD (Pro E Creo, Solidworks, ANSYS)
-* Programming Languages (MATLAB, Python, C)
+* Programming Languages (MATLAB, Python, C, Excel)
+* Mechanical Design for Manufacturing
 * Space Claim Analysis
-* 
+* Full Cycle Design Engineering
+* Prototyping (3D Printing, Machining, sheet metal, injecion molding, casting)
+* Technical Writing
 
 # I Love
 
