@@ -15,7 +15,7 @@ I am a dedicated and motivated engineer with a proven track record of success in
 * Mechanical Design for Manufacturing
 * Space Claim Analysis
 * Full Cycle Design Engineering
-* Prototyping (3D Printing, Machining, sheet metal, injecion moulding, casting)
+* Prototyping (3D Printing, Machining, sheet metal, injection moulding, casting)
 * Technical Writing
 
 # I Love
